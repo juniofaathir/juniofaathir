@@ -4,7 +4,7 @@ Junio has years of experience in Python, especially in implementing AI model to 
 
 Junio is skilled in Python, C, SQL, data analytics, machine learning, natural language processing (NLP), and AI LLM. Junio eager to explore new opportunities across industries.
 
-If you are seeking a results-oriented data scientist with expertise in Python, C, SQL, data analytics, machine learning, NLP, AI, and LLM, let's connect. I am excited to collaborate on innovative projects and contribute to the growth and success of your organization.
+If you are seeking a results-oriented AI & Machine Learning Engineer or Data Scientist with expertise in Python, C, SQL, data analytics, machine learning, NLP, AI, and LLM, let's connect. I am excited to collaborate on innovative projects and contribute to the growth and success of your organization.
 
 
 juniofaathir@gmail.com
